@@ -20,3 +20,5 @@ These docs are a work in progress, are incomplete, and likely downright just wro
 
 If you hit any problems, please contact us ... we will get you sorted :)&#x20;
 {% endhint %}
+
+Need help? Want to talk? The quickest way to get in touch with us at the minute is [Discord](https://discord.gg/m8qUwMsdhG). I know it's not everyone's cup of tea, but its there at the minute. If you prefer email, send it over to hello at postyfox dot com.
