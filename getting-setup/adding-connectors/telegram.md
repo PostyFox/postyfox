@@ -24,3 +24,8 @@ At this point, Telegram will have sent you a code - enter it and click Continue.
 
 You will receive another prompt for your Telegram 2FA Password or Phrase - this will be the same 2FA Password or Phrase that you enter when you re-install Telegram. If you get this wrong, your authentication will fail, however, you can click "Log in" to start the process again.
 
+**Selecting your posting targets**
+
+Once you have successfully added your Telegram connector, you need to specify where you want your posts to potentially go - you add your targets, then you can select which targets you want to use for each post you create.
+
+To add your initial targets, simply click "Targets" on the Telegram connector; a window will open once your available channel and group list has been retrieved allow you to select one or more.
