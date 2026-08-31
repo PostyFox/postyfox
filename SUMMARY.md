@@ -4,7 +4,8 @@
 
 ## Getting Setup
 
-* [Registering!](getting-setup/registering.md)
+* [Registering!](getting-setup/registering/README.md)
+  * [Adding a Passkey](getting-setup/registering/adding-a-passkey.md)
 * [Adding Connectors](getting-setup/adding-connectors/README.md)
   * [BlueSky](getting-setup/adding-connectors/bluesky.md)
   * [FurAffinity](getting-setup/adding-connectors/furaffinity.md)
