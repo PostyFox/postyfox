@@ -20,6 +20,7 @@
   * [Mastodon](getting-setup/adding-connectors/mastodon.md)
   * [Pixelfed](getting-setup/adding-connectors/pixelfed.md)
   * [Telegram](getting-setup/adding-connectors/telegram.md)
+  * [Pleroma](getting-setup/adding-connectors/pleroma.md)
 
 ## Developing
 
