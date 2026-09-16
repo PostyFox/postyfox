@@ -8,12 +8,15 @@ description: Aka how to add a destination website you want to post content to
 
 There is no limit to how many connectors you add to your account, or use in a single posting.
 
-At this time, PostyFox currently supports (_Tested and 100% confirmed good!_):
+At this time, PostyFox currently supports:
 
+* Akkoma
 * BlueSky
+* Friendica
 * FurAffinity
+* GoToSocial
 * Iceshrimp
-* Pixelfed
+* PixelFed
 * Telegram
 * Tumblr
 
@@ -22,13 +25,11 @@ The following _should_ work ... but need more testing:
 * Pleroma
 * Mastodon
 * Hometown
-* GoToSocial
-* Friendica
-* FireFish
 * Discord (via Webhooks)
-* Akkoma
 
-_Note: PostyFox will NOT support Twitter / X due to the ... political ... issues around the platform._
+{% hint style="danger" %}
+_PostyFox will **NOT** support Twitter / X due to the ... political ... issues around the platform. And the fact they want fairly chunky sums of money in order to do any integration against them._
+{% endhint %}
 
 {% hint style="info" %}
 Where possible, we will never take a username / password from you to be held on the platform, and instead use things like OAuth which will take a short lived token - which you can revoke at any time.

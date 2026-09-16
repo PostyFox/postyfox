@@ -18,11 +18,13 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # API
 
-We have APIs! The front end of the platform has absolutely no real logic, and indeed, drives everything from authenticated API's.&#x20;
+We have APIs! The front end of the platform has absolutely no real logic, and indeed, drives everything from authenticated API's. The hosted versions of PostyFox are heavily built around OAuth, and our authentication platform of choice is KeyCloak, where we support a number of other identity providers for federation.
 
 Once you are authenticated, your authentication token is used by the API layer seamlessly to ensure you only get your data back; this same approach can be used to call into the API layer by your own code if you so wished, using exactly the same APIs we are using to drive the frontend.
 

@@ -12,6 +12,10 @@ You'll get a popup from your instance, and if you are not already logged in you 
 
 Click Authorize, and you are done!
 
+Ensure that you enable the Connector; if at any point in the future you wish to globally disable this connector without removing it, you can toggle the Enabled option.
+
+When you are done, click Save connector.
+
 
 
 **Troubleshooting**

@@ -12,7 +12,9 @@ We \*strongly\* recommend that all Telegram users have 2FA enabled to prevent ac
 
 Be sure to enter your phone number in international format; for example, in the UK the prefix is +44, and you drop the leading zero of the number.
 
-Once done, click Save Connector (it is safe to leave the Default posting target field blank).&#x20;
+Ensure that you enable the Connector; if at any point in the future you wish to globally disable this connector without removing it, you can toggle the Enabled option.
+
+Once done, click Save Connector.
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
@@ -29,3 +31,4 @@ You will receive another prompt for your Telegram 2FA Password or Phrase - this 
 Once you have successfully added your Telegram connector, you need to specify where you want your posts to potentially go - you add your targets, then you can select which targets you want to use for each post you create.
 
 To add your initial targets, simply click "Targets" on the Telegram connector; a window will open once your available channel and group list has been retrieved allow you to select one or more.
+
