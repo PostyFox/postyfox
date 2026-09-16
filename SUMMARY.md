@@ -15,7 +15,9 @@
   * [Friendica](getting-setup/adding-connectors/friendica.md)
   * [FurAffinity](getting-setup/adding-connectors/furaffinity.md)
   * [GoTo Social](getting-setup/adding-connectors/goto-social.md)
+  * [Hometown](getting-setup/adding-connectors/hometown.md)
   * [IceShrimp](getting-setup/adding-connectors/iceshrimp.md)
+  * [Mastodon](getting-setup/adding-connectors/mastodon.md)
   * [Pixelfed](getting-setup/adding-connectors/pixelfed.md)
   * [Telegram](getting-setup/adding-connectors/telegram.md)
 

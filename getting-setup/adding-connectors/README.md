@@ -15,7 +15,9 @@ At this time, PostyFox currently supports:
 * Friendica
 * FurAffinity
 * GoToSocial
+* Hometown
 * Iceshrimp
+* Mastodon
 * PixelFed
 * Telegram
 * Tumblr
@@ -23,8 +25,6 @@ At this time, PostyFox currently supports:
 The following _should_ work ... but need more testing:
 
 * Pleroma
-* Mastodon
-* Hometown
 * Discord (via Webhooks)
 
 {% hint style="danger" %}
