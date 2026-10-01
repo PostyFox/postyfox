@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🦊 Welcome to PostyFox](README.md)
+* [Welcome to PostyFox](README.md)
 
 ## Getting Setup
 
