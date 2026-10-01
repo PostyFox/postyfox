@@ -4,6 +4,7 @@
 
 ## Getting Setup
 
+* [Terms of Service](getting-setup/terms-of-service.md)
 * [Registering!](getting-setup/registering/README.md)
   * [Changing your password](getting-setup/registering/changing-your-password.md)
   * [Adding a Passkey](getting-setup/registering/adding-a-passkey.md)
@@ -31,6 +32,7 @@
 ## I need help!
 
 * [Bugs ... Issues](i-need-help/bugs-...-issues.md)
+* [I want my account deleted](i-need-help/i-want-my-account-deleted.md)
 
 ## I want to help
 
