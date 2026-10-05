@@ -12,7 +12,9 @@
   * [Managing social signin (Google, Discord, etc)](getting-setup/registering/managing-social-signin-google-discord-etc.md)
 * [Adding Connectors](getting-setup/adding-connectors/README.md)
   * [Akkoma](getting-setup/adding-connectors/akkoma.md)
+  * [Artconomy](getting-setup/adding-connectors/artconomy.md)
   * [BlueSky](getting-setup/adding-connectors/bluesky.md)
+  * [Discord (Web Hook)](getting-setup/adding-connectors/discord-web-hook.md)
   * [Friendica](getting-setup/adding-connectors/friendica.md)
   * [FurAffinity](getting-setup/adding-connectors/furaffinity.md)
   * [GoTo Social](getting-setup/adding-connectors/goto-social.md)
@@ -20,8 +22,12 @@
   * [IceShrimp](getting-setup/adding-connectors/iceshrimp.md)
   * [Mastodon](getting-setup/adding-connectors/mastodon.md)
   * [Pixelfed](getting-setup/adding-connectors/pixelfed.md)
-  * [Telegram](getting-setup/adding-connectors/telegram.md)
   * [Pleroma](getting-setup/adding-connectors/pleroma.md)
+  * [SoFurry](getting-setup/adding-connectors/sofurry.md)
+  * [Telegram](getting-setup/adding-connectors/telegram.md)
+  * [ToyHou.se](getting-setup/adding-connectors/toyhou.se.md)
+  * [Tumblr](getting-setup/adding-connectors/tumblr.md)
+  * [X (Twitter)](getting-setup/adding-connectors/x-twitter.md)
 
 ## Developing
 
