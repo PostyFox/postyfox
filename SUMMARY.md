@@ -2,6 +2,10 @@
 
 * [Welcome to PostyFox](README.md)
 
+## ABOUT US
+
+* [Who are we?](about-us/who-are-we.md)
+
 ## Getting Setup
 
 * [Terms of Service](getting-setup/terms-of-service.md)
