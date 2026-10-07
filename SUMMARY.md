@@ -24,6 +24,7 @@
   * [GoTo Social](getting-setup/adding-connectors/goto-social.md)
   * [Hometown](getting-setup/adding-connectors/hometown.md)
   * [IceShrimp](getting-setup/adding-connectors/iceshrimp.md)
+  * [Instagram](getting-setup/adding-connectors/instagram.md)
   * [Mastodon](getting-setup/adding-connectors/mastodon.md)
   * [Pixelfed](getting-setup/adding-connectors/pixelfed.md)
   * [Pleroma](getting-setup/adding-connectors/pleroma.md)
@@ -53,3 +54,8 @@
 ## SELF HOSTING
 
 * [Getting Started](self-hosting/getting-started.md)
+* [Configuration](self-hosting/configuration/README.md)
+  * [Connector Variables](self-hosting/configuration/connector-variables/README.md)
+    * [Instagram](self-hosting/configuration/connector-variables/instagram.md)
+    * [Telegram](self-hosting/configuration/connector-variables/telegram.md)
+    * [Tumblr](self-hosting/configuration/connector-variables/tumblr.md)
