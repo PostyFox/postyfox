@@ -34,6 +34,10 @@
   * [Tumblr](getting-setup/adding-connectors/tumblr.md)
   * [X (Twitter)](getting-setup/adding-connectors/x-twitter.md)
 
+## GENERAL
+
+* [Outbound Requests](general/outbound-requests.md)
+
 ## Developing
 
 * [API](developing/api/README.md)
